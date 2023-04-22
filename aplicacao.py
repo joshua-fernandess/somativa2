@@ -1,6 +1,2 @@
-
-import tkinter as tk
-root = tk.Tk()
-button = tk.Button(root, text="Aperte")
-button.pack()
-root.mainloop()
+nome = input("Digite o seu nome ")
+print ("Ola, " + nome + " seja bem vindo")
