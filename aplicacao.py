@@ -1,2 +1,2 @@
 
-print ("Ola, " + nome + " seja bem vindo")
+print ("Ola seja bem vindo")
